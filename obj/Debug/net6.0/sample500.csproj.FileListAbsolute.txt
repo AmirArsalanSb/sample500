@@ -1,0 +1,15 @@
+C:\Users\amirarsalan\Desktop\sample500\bin\Debug\net6.0\sample500.exe
+C:\Users\amirarsalan\Desktop\sample500\bin\Debug\net6.0\sample500.deps.json
+C:\Users\amirarsalan\Desktop\sample500\bin\Debug\net6.0\sample500.runtimeconfig.json
+C:\Users\amirarsalan\Desktop\sample500\bin\Debug\net6.0\sample500.dll
+C:\Users\amirarsalan\Desktop\sample500\bin\Debug\net6.0\sample500.pdb
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\sample500.csproj.AssemblyReference.cache
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\sample500.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\sample500.AssemblyInfoInputs.cache
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\sample500.AssemblyInfo.cs
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\sample500.csproj.CoreCompileInputs.cache
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\sample500.dll
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\refint\sample500.dll
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\sample500.pdb
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\sample500.genruntimeconfig.cache
+C:\Users\amirarsalan\Desktop\sample500\obj\Debug\net6.0\ref\sample500.dll
